@@ -17,7 +17,7 @@
 
 
 
-> @Mapping에서는 `produces`와 `consumes`가 존재하는데 이것은 쉽게 이야기하여 
+> @Mapping에서는 `produces`와 `consumes`가 존재하는데 이것은 쉽게 이야기하여    
 
 
 
