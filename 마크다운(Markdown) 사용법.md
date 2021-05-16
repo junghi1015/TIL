@@ -159,7 +159,3 @@ Remote Repository
 이것은 ~~취소선~~입니다.
 
 
-
-## 2. 과제
-
-> 현재의 pdf문서를 마크다운 문법을 활용하여 `00_markdown_basic.md`로 만들어 보세요.
