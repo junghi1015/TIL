@@ -4,3 +4,5 @@
 
 * @RequestMapping의 produces와 consumes란 [👈보러가기](https://github.com/junghi1015/TIL/blob/master/%40RequestMapping%EC%9D%98%20produces%EC%99%80%20Consumes%EB%9E%80.md)
 
+* URI / URL / URN 이란 [🤔보러가기](https://github.com/junghi1015/TIL/blob/master/URI%20%20URL%20%20URN%20%EC%9D%B4%EB%9E%80.md)
+
